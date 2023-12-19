@@ -54,4 +54,4 @@ nvm ls (展示所有的node版本和当前正在使用的node版本)
 [搭建过程参考](https://juejin.cn/post/7228990409909108793#heading-1)
 [vue-pure-admin 参考](https://yiming_chang.gitee.io/pure-admin-doc/pages/introduction/)
 [vue3 官网](https://cn.vuejs.org/guide/essentials/application.html)
-
+前端规范地址：http://192.168.143.143/svn/R28/100-（知识库）/40-智能风控组/前端/前端规范
